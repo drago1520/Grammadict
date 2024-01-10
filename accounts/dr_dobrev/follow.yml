@@ -84,23 +84,23 @@ telegram-reports: true # for using telegram-reports you have also to configure t
 ## Source Limits
 ###############################################################################
 #
-#interactions-count:  0
-#likes-count: 0
-#likes-percentage:  0
-#stories-count:  0
-#stories-percentage:  0
-#carousel-count:  0
-#carousel-percentage:  0
-#max-comments-pro-user: 0
-## comment-percentage:  0
-## pm-percentage:  0
-#interact-percentage:  0
-#follow-percentage:  0
-#follow-limit: 0
-#skipped-list-limit:  0
-#skipped-posts-limit: 5
-#fling-when-skipped: 0
-#min-following: 0
+interactions-count: 50-60
+likes-count: 2-3
+likes-percentage: 70-100
+stories-count:  1
+stories-percentage: 100
+carousel-count:  2
+carousel-percentage: 90
+max-comments-pro-user: 0
+comment-percentage:  0
+pm-percentage:  0
+interact-percentage:  80
+follow-percentage:  90
+follow-limit: 1
+skipped-list-limit:  15-20
+skipped-posts-limit: 10-12 #DO TUK STIGNAH
+fling-when-skipped: 0
+min-following: 0
 #
 ###############################################################################
 ## Total Limits Per Session
