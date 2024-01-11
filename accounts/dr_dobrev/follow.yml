@@ -46,10 +46,10 @@ blogger-post-likers: [ mex_berlin, nikonikoramen ]
 #place-likers-recent: [ place1, place2 ]
 #interact-from-file: [usernames1.txt 10-15, usernames2.txt 3]
 #posts-from-file: posts.txt
-feed: 20-40 # is the number of likes you will give in feed
+feed: 50-70 # is the number of likes you will give in feed
 #
 ### Special modifier for jobs and sources
-watch-video-time: 15-35
+watch-video-time: 10-25
 watch-photo-time: 3-4
 can-reinteract-after: 5-7 # the amount of hours that have to pass from the last interaction
 #delete-interacted-users: false
@@ -88,7 +88,7 @@ interactions-count: 60-90
 likes-count: 2-3
 likes-percentage: 70-100
 stories-count:  1
-stories-percentage: 100
+stories-percentage: 90
 carousel-count:  2
 carousel-percentage: 90
 max-comments-pro-user: 0
@@ -96,9 +96,9 @@ comment-percentage:  0
 pm-percentage:  0
 interact-percentage:  80
 follow-percentage:  90
-follow-limit: 1
+#follow-limit: 1
 skipped-list-limit:  15-20
-skipped-posts-limit: 10-12 #DO TUK STIGNAH
+skipped-posts-limit: 10-12 
 #fling-when-skipped: 0
 #min-following: 0
 #
@@ -110,8 +110,8 @@ total-likes-limit: 120-150
 total-follows-limit: 40-50
 total-unfollows-limit: 40-50
 total-watches-limit: 120-150
-total-successful-interactions-limit: 120-150
-total-interactions-limit: 280-300
+total-successful-interactions-limit: 180-250
+total-interactions-limit: 300-380
 #total-comments-limit: 0
 #total-pm-limit: 0
 #total-scraped-limit: 100-150
