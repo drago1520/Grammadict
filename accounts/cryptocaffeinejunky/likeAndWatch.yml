@@ -8,7 +8,7 @@
 # General Configuration
 ##############################################################################
 
-username: dr_dobrev # you have to put your IG name here!
+username: cryptocaffeinejunky # you have to put your IG name here!
 device: localhost:21503 # 'adb devices' in the console to know it.  It's needed only if you have more than 1 device connected
 app-id: com.instagram.android
 use-cloned-app: false
