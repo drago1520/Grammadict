@@ -58,5 +58,5 @@ comment_carousels: false
 pm_to_private_or_empty: false
 
 # ## Filters on number of post likers
-min_likers: 5
+min_likers: 0
 #max_likers: 
