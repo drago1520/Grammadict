@@ -106,7 +106,7 @@ skipped-posts-limit: 10-12
 ## Total Limits Per Session
 ###############################################################################
 #
-total-likes-limit: 20-40
+total-likes-limit: 80-120
 total-follows-limit: 0
 total-unfollows-limit: 0
 total-watches-limit: 120-150
