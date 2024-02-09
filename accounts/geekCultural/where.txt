@@ -1,0 +1,2 @@
+1. adb connect localhost:21503
+2. python run.py --config accounts/cryptocaffeinejunky/follow.yml 
