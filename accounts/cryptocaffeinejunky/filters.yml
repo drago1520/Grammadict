@@ -21,8 +21,8 @@ min_followers: 10
 max_followers: 250000
 min_followings: 10
 max_followings: 200000
-min_potency_ratio: 0.2
-max_potency_ratio: 8
+#min_potency_ratio: 0.2
+#max_potency_ratio: 8
 min_posts: 0
 mutual_friends: -1 # -1 for ignore that filter
 
