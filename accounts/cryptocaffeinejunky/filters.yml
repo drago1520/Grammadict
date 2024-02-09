@@ -14,7 +14,7 @@ skip_non_business: false
 skip_following: false
 skip_follower: false
 skip_if_link_in_bio: false
-follow_private_or_empty: true
+follow_private_or_empty: false
 
 ## Filters on profile stats
 min_followers: 10

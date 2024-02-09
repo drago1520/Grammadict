@@ -1,0 +1,72 @@
+{
+    "tay_writer": {
+        "last_interaction": "2024-02-09 12:05:46.834892",
+        "following_status": "none",
+        "session_id": "0e8d449e-0ab2-4469-a6de-7920babc9ec3",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 0,
+        "watched": 0,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
+    },
+    "alastor7867": {
+        "last_interaction": "2024-02-09 12:05:58.381185",
+        "following_status": "none",
+        "session_id": "0e8d449e-0ab2-4469-a6de-7920babc9ec3",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 0,
+        "watched": 0,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
+    },
+    "brai.n.stain": {
+        "last_interaction": "2024-02-09 12:06:22.276552",
+        "following_status": "none",
+        "session_id": "0e8d449e-0ab2-4469-a6de-7920babc9ec3",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 0,
+        "watched": 0,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
+    },
+    "yanices10": {
+        "last_interaction": "2024-02-09 12:07:19.165819",
+        "following_status": "none",
+        "session_id": "0e8d449e-0ab2-4469-a6de-7920babc9ec3",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 0,
+        "watched": 0,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
+    },
+    "v0.art": {
+        "last_interaction": "2024-02-09 12:08:01.361683",
+        "following_status": "none",
+        "session_id": "0e8d449e-0ab2-4469-a6de-7920babc9ec3",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 1,
+        "watched": 1,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
+    }
+}
