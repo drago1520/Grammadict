@@ -86,11 +86,11 @@ telegram-reports: true # for using telegram-reports you have also to configure t
 #
 interactions-count: 60-90
 likes-count: 2-3
-likes-percentage: 70-100
+likes-percentage: 70
 stories-count:  1
 stories-percentage: 90
 carousel-count:  2-5
-carousel-percentage: 90
+carousel-percentage: 70
 max-comments-pro-user: 0
 comment-percentage:  0
 pm-percentage:  0

@@ -60254,5 +60254,53 @@
         "fullname": "Weronika Nowak",
         "potency_ratio": 3.9186746987951806,
         "skip_reason": null
+    },
+    "lemonssss_s": {
+        "datetime": "2024-02-24 21:13:09.093188",
+        "followers": 160,
+        "followings": 512,
+        "mutual_friends": 15,
+        "follow_button_text": "FOLLOWING",
+        "is_restricted": false,
+        "is_private": false,
+        "has_business_category": false,
+        "posts_count": 1,
+        "biography": "21\nallergic to posting\n\ud83d\udc08\u200d\u2b1b\ud83e\udd87\ud83d\udc26\u200d\u2b1b",
+        "link_in_bio": null,
+        "fullname": "Nana",
+        "potency_ratio": 0.3125,
+        "skip_reason": null
+    },
+    "ash__c0splays": {
+        "datetime": "2024-02-24 21:13:38.246869",
+        "followers": 750,
+        "followings": 431,
+        "mutual_friends": 77,
+        "follow_button_text": "FOLLOWING",
+        "is_restricted": false,
+        "is_private": false,
+        "has_business_category": true,
+        "posts_count": 80,
+        "biography": "16~entp~cosplayer\nProp commissions - OPENED \nm/w @sxrrxcl <3\nmy small business @book.jewelry",
+        "link_in_bio": "ko-fi.com/ash__cosplays",
+        "fullname": "ash",
+        "potency_ratio": 1.740139211136891,
+        "skip_reason": null
+    },
+    "shadowwolf89099": {
+        "datetime": "2024-02-24 21:14:42.941643",
+        "followers": 9,
+        "followings": 206,
+        "mutual_friends": 0,
+        "follow_button_text": "FOLLOW",
+        "is_restricted": false,
+        "is_private": false,
+        "has_business_category": false,
+        "posts_count": 3,
+        "biography": "I am a Gacha creator and I\u2019m actually shadow wolf8909 I also do Minecraft role play",
+        "link_in_bio": null,
+        "fullname": "ShadowWolf89099",
+        "potency_ratio": 0.043689320388349516,
+        "skip_reason": "LT_FOLLOWERS"
     }
 }

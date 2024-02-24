@@ -21138,5 +21138,47 @@
         "unfollowed": false,
         "scraped": false,
         "pm_sent": false
+    },
+    "lemonssss_s": {
+        "last_interaction": "2024-02-24 21:13:31.275327",
+        "following_status": "none",
+        "session_id": "40a410c1-f6a5-47f6-bfd8-1dc966a20d2c",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 1,
+        "watched": 0,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
+    },
+    "ash__c0splays": {
+        "last_interaction": "2024-02-24 21:14:33.755998",
+        "following_status": "none",
+        "session_id": "40a410c1-f6a5-47f6-bfd8-1dc966a20d2c",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 2,
+        "watched": 1,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
+    },
+    "shadowwolf89099": {
+        "last_interaction": "2024-02-24 21:14:43.916230",
+        "following_status": "none",
+        "session_id": "40a410c1-f6a5-47f6-bfd8-1dc966a20d2c",
+        "job_name": "blogger-followers",
+        "target": "sasha_draws.bg",
+        "liked": 0,
+        "watched": 0,
+        "commented": 0,
+        "followed": false,
+        "unfollowed": false,
+        "scraped": false,
+        "pm_sent": false
     }
 }

@@ -1,6 +1,6 @@
 @echo off
 REM Wait for 15 seconds
-timeout /t 15
+timeout /t 40 /nobreak
 
 :connect
 REM Attempt to connect using adb
