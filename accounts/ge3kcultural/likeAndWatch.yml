@@ -32,9 +32,9 @@ shuffle-jobs: true
 ##############################################################################
 
 ## Interaction (active jobs) - WITH WHO???
-blogger-followers: [ sasha_draws.bg, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
-blogger-following: [ sasha_draws.bg, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
-blogger-post-likers: [ sasha_draws.bg, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
+blogger-followers: [ sasha_draws.bg, bg.maidcafe, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
+blogger-following: [ sasha_draws.bg, bg.maidcafe, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
+blogger-post-likers: [ sasha_draws.bg, bg.maidcafe, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
 #blogger: [ username1, username2 ]
 #hashtag-likers-top: [ hashtag1, hashtag2 ]
 #hashtag-likers-recent: [ hashtag1, hashtag2 ]
