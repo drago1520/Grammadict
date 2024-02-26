@@ -107,8 +107,8 @@ skipped-posts-limit: 10-12
 ###############################################################################
 #
 total-likes-limit: 120-150
-total-follows-limit: 0
-total-unfollows-limit: 0
+total-follows-limit: 10-20
+total-unfollows-limit: 30-40
 total-watches-limit: 150-200
 total-successful-interactions-limit: 180-250
 total-interactions-limit: 300-380
