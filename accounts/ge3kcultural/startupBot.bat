@@ -17,7 +17,7 @@ if %errorlevel%==0 (
 
 REM Proceed with the rest of the script
 cd /d C:\Users\dari\Desktop\projects\GrammAddict
-python run.py --config accounts/ge3kcultural/likeAndWatch.yml
+python run.py --config accounts/ge3kcultural/follow.yml 
 
 REM Cleanup temporary file
 del tmp.txt

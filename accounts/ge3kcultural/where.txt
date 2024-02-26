@@ -1,2 +1,3 @@
 adb connect localhost:21503
 python run.py --config accounts/ge3kcultural/likeAndWatch.yml 
+python run.py --config accounts/ge3kcultural/follow.yml 
