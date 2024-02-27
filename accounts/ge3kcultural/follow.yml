@@ -57,8 +57,8 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 # ### Unfollow (unfollow jobs)
 # unfollow: 0
 # #unfollow-any: 0
-unfollow-non-followers: 30
-unfollow-any-non-followers: 5-10
+unfollow-non-followers: 5-10
+unfollow-any-non-followers: 2-4
 # unfollow-any-followers: 1-10
 # #unfollow-from-file: [usernames1.txt 7-15, usernames2.txt 6]
 # #
@@ -132,5 +132,5 @@ end-if-watches-limit-reached: false
 #
 working-hours: [8.15-14.40, 19.35-23.46]
 time-delta: 10
-repeat: 120-160                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 v vb          
+repeat: 180                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 v vb          
 #total-sessions: 1 # -1 or commented for infinite sessions
