@@ -58,7 +58,7 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 # unfollow: 0
 # #unfollow-any: 0
 unfollow-non-followers: 5-10
-unfollow-any-non-followers: 2-4
+unfollow-any-non-followers: 0
 # unfollow-any-followers: 1-10
 # #unfollow-from-file: [usernames1.txt 7-15, usernames2.txt 6]
 # #
