@@ -130,7 +130,7 @@ end-if-watches-limit-reached: false
 ## Scheduling
 ###############################################################################
 #
-working-hours: [8.15-14.40, 19.35-01.30]
+working-hours: [8.15-14.40, 19.35-23.46]
 time-delta: 40
 repeat: 180
 #total-sessions: 1 # -1 or commented for infinite sessions
