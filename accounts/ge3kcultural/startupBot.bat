@@ -17,12 +17,7 @@ if %errorlevel%==0 (
 
 REM Proceed with the rest of the script
 cd /d C:\Users\dari\Desktop\projects\GrammAddict
-expect -c "spawn python run.py --config accounts/ge3kcultural/follow.yml
-expect \"WARNING | If you press ENTER, you are aware of this and will not ask for support in case of a crash.\"
-send \"\r\"
-expect \"Second prompt text\"
-send \"yes\r\"
-interact"
+python run.py --config accounts/ge3kcultural/follow.yml 
 
 REM Cleanup temporary file
 del tmp.txt
