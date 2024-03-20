@@ -12,9 +12,9 @@ username: ge3kcultural # you have to put your IG name here!
 device: localhost:21503 # 'adb devices' in the console to know it.  It's needed only if you have more than 1 device connected
 app-id: com.instagram.android
 use-cloned-app: false
-allow-untested-ig-version: false # Using an untested version of IG would cause unexpected behavior because some elements in the user interface may have been changed
+allow-untested-ig-version: true # Using an untested version of IG would cause unexpected behavior because some elements in the user interface may have been changed
 screen-sleep: false
-screen-record: true
+screen-record: false
 speed-multiplier: 1.15
 debug: false
 close-apps: true
@@ -55,16 +55,16 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 #delete-interacted-users: false
 #
 # ### Unfollow (unfollow jobs)
-# unfollow: 10-25
-# #unfollow-any: 10-20
-# unfollow-non-followers: 10-25
-# #unfollow-any-non-followers: 10-20
+# unfollow: 0
+# #unfollow-any: 0
+unfollow-non-followers: 0
+unfollow-any-non-followers: 0
 # unfollow-any-followers: 1-10
 # #unfollow-from-file: [usernames1.txt 7-15, usernames2.txt 6]
 # #
 # ### Special modifier for unfollow jobs
 # #sort-followers-newest-to-oldest: false
-# unfollow-delay: 3-5
+unfollow-delay: 3-5
 #
 ### Remove followers (active jobs)
 #remove-followers-from-file: [remove1.txt 5-10, remove2.txt 6]
@@ -73,7 +73,7 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 #delete-removed-followers: false
 #
 ### Post Processing
-analytics: true # no more supported
+analytics: false # no more supported
 telegram-reports: true # for using telegram-reports you have also to configure telegram.yml in your account folder
 #
 ### Special actions
@@ -96,7 +96,7 @@ comment-percentage:  0
 pm-percentage:  0
 interact-percentage:  80
 follow-percentage:  0
-#follow-limit: 1
+follow-limit: 0
 skipped-list-limit:  15-20
 skipped-posts-limit: 10-12 
 #fling-when-skipped: 0
@@ -130,7 +130,7 @@ end-if-watches-limit-reached: false
 ## Scheduling
 ###############################################################################
 #
-working-hours: [8.15-14.40, 19.35-23.46]
-time-delta: 10
-repeat: 120-160                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 v vb          
+working-hours: [8.15-14.40, 18.00-23.46]
+time-delta: 40
+repeat: 180
 #total-sessions: 1 # -1 or commented for infinite sessions
