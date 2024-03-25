@@ -110,8 +110,8 @@ total-likes-limit: 120-150
 total-follows-limit: 0
 total-unfollows-limit: 0
 total-watches-limit: 150-200
-total-successful-interactions-limit: 180-250
-total-interactions-limit: 300-380
+#total-successful-interactions-limit: 180-250
+#total-interactions-limit: 300-380
 #total-comments-limit: 0
 #total-pm-limit: 0
 #total-scraped-limit: 100-150
@@ -130,7 +130,7 @@ end-if-watches-limit-reached: false
 ## Scheduling
 ###############################################################################
 #
-working-hours: [8.15-14.40, 18.00-23.46]
+working-hours: [8.15-14.40, 18.00-23:45]
 time-delta: 40
 repeat: 180
 #total-sessions: 1 # -1 or commented for infinite sessions
