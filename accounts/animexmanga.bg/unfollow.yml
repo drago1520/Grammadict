@@ -1,0 +1,136 @@
+##############################################################################
+# For more information on parameters, refer to: 
+# https://docs.gramaddict.org/#/configuration?id=configuration-file
+#
+# Note: be sure to comment out any parameters not used by adding a # in front
+# AGAIN: YOU DON'T HAVE TO DELETE THE LINE, BUT ONLY COMMENT IT WITH A #!
+##############################################################################
+# General Configuration
+##############################################################################
+
+username: animexmanga.bg # you have to put your IG name here!
+device: localhost:21503 # 'adb devices' in the console to know it.  It's needed only if you have more than 1 device connected
+app-id: com.instagram.android
+use-cloned-app: false
+allow-untested-ig-version: true # Using an untested version of IG would cause unexpected behavior because some elements in the user interface may have been changed
+screen-sleep: false
+screen-record: false
+speed-multiplier: 1.15
+debug: false
+close-apps: true
+disable-block-detection: false
+disable-filters: false
+dont-type: false
+# scrape-to-file: scraped.txt
+total-crashes-limit: 5
+count-app-crashes: true
+shuffle-jobs: true
+#truncate-sources: 2-5
+
+##############################################################################
+# Actions
+##############################################################################
+
+## Interaction (active jobs) - WITH WHO???
+blogger-followers: [ sasha_draws.bg, bg.maidcafe, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
+blogger-following: [ sasha_draws.bg, bg.maidcafe, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
+blogger-post-likers: [ sasha_draws.bg, bg.maidcafe, zamah.se4, clubhazebg, krisi._shop._, net_animebazaar, animes.bg, hobbygamesbulgaria_, level.up.sofia, getoutofficial, vsdancestudios, inovi_comics, esn.unwe, esnsofia, esnuaceg, esnsofiauni, esn_nbu, esnvarna, esn_bulgaria, esn_plovdiv, esn_svishtov]
+#blogger: [ username1, username2 ]
+#hashtag-likers-top: [ hashtag1, hashtag2 ]
+#hashtag-likers-recent: [ hashtag1, hashtag2 ]
+#hashtag-posts-top: [ hashtag1, hashtag2 ]
+#hashtag-posts-recent: [ hashtag1, hashtag2 ]
+#place-posts-top: [ place1, place2 ]
+#place-posts-recent: [ place1, place2 ]
+#place-likers-top: [ place1, place2 ]
+#place-likers-recent: [ place1, place2 ]
+#interact-from-file: [usernames1.txt 10-15, usernames2.txt 3]
+#posts-from-file: posts.txt
+feed: 50-70 # is the number of likes you will give in feed
+#
+### Special modifier for jobs and sources
+watch-video-time: 10-25
+watch-photo-time: 2-5
+can-reinteract-after: 5-7 # the amount of hours that have to pass from the last interaction
+#delete-interacted-users: false
+#
+# ### Unfollow (unfollow jobs)
+# unfollow: 0
+# #unfollow-any: 0
+unfollow-non-followers: 5-10
+unfollow-any-non-followers: 10-25
+# unfollow-any-followers: 1-10
+# #unfollow-from-file: [usernames1.txt 7-15, usernames2.txt 6]
+# #
+# ### Special modifier for unfollow jobs
+# #sort-followers-newest-to-oldest: false
+unfollow-delay: 3-5
+#
+### Remove followers (active jobs)
+#remove-followers-from-file: [remove1.txt 5-10, remove2.txt 6]
+#
+### Special modifier for remove followers
+#delete-removed-followers: false
+#
+### Post Processing
+analytics: false # no more supported
+telegram-reports: true # for using telegram-reports you have also to configure telegram.yml in your account folder
+#
+### Special actions
+## pre-script: pre_script_path_here
+## post-script: post_script_path_here
+#
+###############################################################################
+## Source Limits
+###############################################################################
+#
+interactions-count: 60-90
+likes-count: 2-3
+likes-percentage: 70
+stories-count:  1
+stories-percentage: 90
+carousel-count:  2-5
+carousel-percentage: 70
+max-comments-pro-user: 0
+comment-percentage:  0
+pm-percentage:  0
+interact-percentage:  80
+follow-percentage:  80
+follow-limit: 1
+skipped-list-limit:  15-20
+skipped-posts-limit: 10-12 
+#fling-when-skipped: 0
+#min-following: 0
+#
+###############################################################################
+## Total Limits Per Session
+###############################################################################
+#
+total-likes-limit: 120-150
+total-follows-limit: 10-20
+total-unfollows-limit: 30-40
+total-watches-limit: 150-200
+#total-interactions-limit: 300-380
+#total-successful-interactions-limit: 180-250
+#total-comments-limit: 0
+#total-pm-limit: 0
+#total-scraped-limit: 100-150
+#
+###############################################################################
+## Ending Session Conditions
+###############################################################################
+#
+end-if-likes-limit-reached: false
+end-if-follows-limit-reached: false
+end-if-watches-limit-reached: false
+#end-if-comments-limit-reached: false
+#end-if-pm-limit-reached: false
+#
+###############################################################################
+## Scheduling
+###############################################################################
+#
+working-hours: [8.15-14.40, 18.00-23.46]
+time-delta: 40
+repeat: 180
+#total-sessions: 1 # -1 or commented for infinite sessions
