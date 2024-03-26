@@ -8,8 +8,8 @@
 # General Configuration
 ##############################################################################
 
-username: ge3kcultural # you have to put your IG name here!
-device: localhost:21513 # 'adb devices' in the console to know it.  It's needed only if you have more than 1 device connected
+username: animexmanga.bg # you have to put your IG name here!
+device: localhost:21503 # 'adb devices' in the console to know it.  It's needed only if you have more than 1 device connected
 app-id: com.instagram.android
 use-cloned-app: false
 allow-untested-ig-version: true # Using an untested version of IG would cause unexpected behavior because some elements in the user interface may have been changed

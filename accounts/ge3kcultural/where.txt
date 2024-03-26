@@ -1,4 +1,6 @@
-adb connect localhost:21503
+adb connect localhost:21503 
+*animexmanga = memu
+*ge3kcultural = memu1
 python run.py --config accounts/ge3kcultural/likeAndWatch.yml 
 python run.py --config accounts/ge3kcultural/follow.yml 
 
