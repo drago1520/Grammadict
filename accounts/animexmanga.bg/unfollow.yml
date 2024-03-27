@@ -56,7 +56,7 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 #
 # ### Unfollow (unfollow jobs)
 unfollow: 25-30
-# #unfollow-any: 0
+#unfollow-any: 0
 unfollow-non-followers: 5-10
 unfollow-any-non-followers: 10-25
 # unfollow-any-followers: 1-10
