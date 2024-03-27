@@ -55,7 +55,7 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 #delete-interacted-users: false
 #
 # ### Unfollow (unfollow jobs)
-# unfollow: 0
+unfollow: 25-30
 # #unfollow-any: 0
 unfollow-non-followers: 5-10
 unfollow-any-non-followers: 10-25
@@ -96,7 +96,7 @@ comment-percentage:  0
 pm-percentage:  0
 interact-percentage:  80
 follow-percentage:  80
-follow-limit: 1
+#follow-limit: 10
 skipped-list-limit:  15-20
 skipped-posts-limit: 10-12 
 #fling-when-skipped: 0
