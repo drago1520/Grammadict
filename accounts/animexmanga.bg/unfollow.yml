@@ -96,7 +96,7 @@ comment-percentage:  0
 pm-percentage:  0
 interact-percentage:  80
 follow-percentage:  80
-#follow-limit: 10
+follow-limit: 20-30
 skipped-list-limit:  15-20
 skipped-posts-limit: 10-12 
 #fling-when-skipped: 0
