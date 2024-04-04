@@ -16,7 +16,7 @@ allow-untested-ig-version: true # Using an untested version of IG would cause un
 screen-sleep: false
 screen-record: false
 speed-multiplier: 1.15
-debug: false
+debug: true
 close-apps: true
 disable-block-detection: false
 disable-filters: false
@@ -55,8 +55,8 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 #delete-interacted-users: false
 #
 # ### Unfollow (unfollow jobs)
-# unfollow: 0
-# #unfollow-any: 0
+unfollow: 0
+#unfollow-any: 0
 unfollow-non-followers: 0
 unfollow-any-non-followers: 0
 # unfollow-any-followers: 1-10
@@ -95,10 +95,10 @@ max-comments-pro-user: 0
 comment-percentage:  0
 pm-percentage:  0
 interact-percentage:  80
-follow-percentage:  0
+follow-percentage:  80
 follow-limit: 0
 skipped-list-limit:  15-20
-skipped-posts-limit: 10-12
+skipped-posts-limit: 10-12 
 #fling-when-skipped: 0
 #min-following: 0
 #
@@ -110,8 +110,8 @@ total-likes-limit: 120-150
 total-follows-limit: 0
 total-unfollows-limit: 0
 total-watches-limit: 150-200
-#total-successful-interactions-limit: 180-250
 #total-interactions-limit: 300-380
+#total-successful-interactions-limit: 180-250
 #total-comments-limit: 0
 #total-pm-limit: 0
 #total-scraped-limit: 100-150

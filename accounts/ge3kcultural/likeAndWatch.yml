@@ -16,7 +16,7 @@ allow-untested-ig-version: true # Using an untested version of IG would cause un
 screen-sleep: false
 screen-record: false
 speed-multiplier: 1.15
-debug: false
+debug: true
 close-apps: true
 disable-block-detection: false
 disable-filters: false
@@ -55,7 +55,7 @@ can-reinteract-after: 5-7 # the amount of hours that have to pass from the last 
 #delete-interacted-users: false
 #
 # ### Unfollow (unfollow jobs)
-# unfollow: 0
+unfollow: 0
 # #unfollow-any: 0
 unfollow-non-followers: 0
 unfollow-any-non-followers: 0
@@ -95,7 +95,7 @@ max-comments-pro-user: 0
 comment-percentage:  0
 pm-percentage:  0
 interact-percentage:  80
-follow-percentage:  0
+follow-percentage:  80
 follow-limit: 0
 skipped-list-limit:  15-20
 skipped-posts-limit: 10-12 
@@ -130,7 +130,7 @@ end-if-watches-limit-reached: false
 ## Scheduling
 ###############################################################################
 #
-working-hours: [8.15-14.40, 18.00-23:45]
+working-hours: [8.15-14.40, 18.00-23.46]
 time-delta: 40
 repeat: 180
 #total-sessions: 1 # -1 or commented for infinite sessions
