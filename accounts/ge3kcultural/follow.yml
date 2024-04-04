@@ -16,7 +16,7 @@ allow-untested-ig-version: true # Using an untested version of IG would cause un
 screen-sleep: false
 screen-record: false
 speed-multiplier: 1.15
-debug: false
+debug: true
 close-apps: true
 disable-block-detection: false
 disable-filters: false
